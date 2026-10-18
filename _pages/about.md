@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Master's student in Interdisciplinary Data Science at Duke University. I study how engaging with various media platforms affects people's beliefs, behaviors, and opinions. To study this on a large scale, I apply machine learning and statistical methods to data on social networks, opinion surveys, and text corpora.
+I am a final-year Master's student in Interdisciplinary Data Science at Duke University. I study how engaging with various media platforms affects people's beliefs, behaviors, and opinions. To study this on a large scale, I apply machine learning and statistical methods to social networks, opinion surveys, and text corpora.
 
 My current work includes mapping podcasters' tendency to oppose socio-political institutions; uncovering [how black-box models detect anonymous online profiles](https://github.com/ananyafied/Explaining_Anonymity) with explainable/interpretable AI methods; and measuring exactly when people in my hometown, Pune, updated their beliefs about the severity of COVID-19 (and whether those beliefs reflected cognitive biases).
 
