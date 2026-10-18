@@ -1,6 +1,6 @@
 ---
 title: 'Personal Blog'
-date: 2015-08-14
+date: 2026-08-18
 permalink: /posts/personal-blog
 tags:
 ---
