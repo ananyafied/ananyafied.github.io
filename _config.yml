@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ai-headshot-maroon.jpeg"
   name             : "Ananya Jogalekar"
   pronouns         : # example: "she/her"  
   bio              : "MS Data Science Student at Duke University"
