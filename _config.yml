@@ -232,7 +232,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false # hidden for now; set to true to restore
     permalink: /:collection/:path/
 
 

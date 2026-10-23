@@ -47,11 +47,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+{% comment %} Talks hidden for now; remove comment tags to restore
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Teaching
 ======
