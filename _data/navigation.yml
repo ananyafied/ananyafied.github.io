@@ -18,8 +18,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # Portfolio hidden for now. Uncomment to restore.
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -27,5 +28,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # Guide hidden for now. Uncomment to restore.
+  # - title: "Guide"
+  #   url: /markdown/
