@@ -1,6 +1,6 @@
 ---
 title: 'AI Alignment: Reflections on "The Alignment Problem" by Brian Christian'
-date: 2026-08-18
+date: 2026-11-06
 permalink: /posts/personal-blog
 tags:
 ---
